@@ -1,9 +1,3 @@
-Perfect 👍 A well-structured README.md makes your project look polished on GitHub.
-Here’s a ready-to-use template for your Hill Climb Racing Gesture Control project:
-
-
----
-
 🎮 Hill Climb Racing Gesture Control
 
 Control Hill Climb Racing using hand gestures with Python, OpenCV, and MediaPipe! 🚗💨
@@ -123,8 +117,3 @@ Pull requests are welcome! For major changes, please open an issue first.
 📜 License
 
 This project is licensed under the MIT License – feel free to use & modify.
-
-
----
-
-Would you like me to also add the code snippet inside README (under “Quick Start”) so visitors can directly see how your script works without opening the file?
